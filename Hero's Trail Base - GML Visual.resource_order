@@ -1,12 +1,12 @@
 {
   "FolderOrderSettings": [
+    {"name":"Animation Curves","order":18,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":20,"path":"folders/Extensions.yy",},
+    {"name":"Notes","order":19,"path":"folders/Notes.yy",},
+    {"name":"Particle Systems","order":21,"path":"folders/Particle Systems.yy",},
     {"name":"Scripts","order":15,"path":"folders/Scripts.yy",},
     {"name":"Shaders","order":16,"path":"folders/Shaders.yy",},
     {"name":"Timelines","order":17,"path":"folders/Timelines.yy",},
-    {"name":"Animation Curves","order":18,"path":"folders/Animation Curves.yy",},
-    {"name":"Notes","order":19,"path":"folders/Notes.yy",},
-    {"name":"Extensions","order":20,"path":"folders/Extensions.yy",},
-    {"name":"Particle Systems","order":21,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_barrel_big","order":3,"path":"objects/obj_barrel_big/obj_barrel_big.yy",},
@@ -19,6 +19,7 @@
     {"name":"spr_baddie_walk_side","order":2,"path":"sprites/spr_baddie_walk_side/spr_baddie_walk_side.yy",},
     {"name":"spr_white_square","order":6,"path":"sprites/spr_white_square/spr_white_square.yy",},
     {"name":"snd_chest_locked","order":9,"path":"sounds/snd_chest_locked/snd_chest_locked.yy",},
+    {"name":"obj_coin","order":22,"path":"objects/obj_coin/obj_coin.yy",},
     {"name":"spr_gate_wood_1","order":7,"path":"sprites/spr_gate_wood_1/spr_gate_wood_1.yy",},
     {"name":"spr_pillar_fallen","order":3,"path":"sprites/spr_pillar_fallen/spr_pillar_fallen.yy",},
     {"name":"spr_baddie_walk_up","order":3,"path":"sprites/spr_baddie_walk_up/spr_baddie_walk_up.yy",},
@@ -30,6 +31,7 @@
     {"name":"spr_logo_white","order":5,"path":"sprites/spr_logo_white/spr_logo_white.yy",},
     {"name":"spr_entrance","order":7,"path":"sprites/spr_entrance/spr_entrance.yy",},
     {"name":"spr_powerup_speed","order":3,"path":"sprites/spr_powerup_speed/spr_powerup_speed.yy",},
+    {"name":"obj_sword_attack","order":23,"path":"objects/obj_sword_attack/obj_sword_attack.yy",},
     {"name":"snd_lever_pull","order":8,"path":"sounds/snd_lever_pull/snd_lever_pull.yy",},
     {"name":"obj_pillar_fallen","order":6,"path":"objects/obj_pillar_fallen/obj_pillar_fallen.yy",},
     {"name":"spr_chest","order":3,"path":"sprites/spr_chest/spr_chest.yy",},
